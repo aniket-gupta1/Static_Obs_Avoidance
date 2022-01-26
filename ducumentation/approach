@@ -1,0 +1,15 @@
+#did triangular
+#did apf
+#did triangular+apf (apf only avoiding geofence and triangular for obstacle)
+#finalised triangular + apf for suas 2018
+did analysis of safe distances and accurate path formation
+considered corner cases for the same 
+finalsed the code
+use of dronekit for simulations
+testing on sitl
+improvements in the code
+final submission of code for suas 2018
+
+implement further rrt for different geofence conditions
+work on real time path planning for uavs
+
